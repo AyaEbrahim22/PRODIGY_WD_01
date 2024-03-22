@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/PRODIGY_WD_01.git/static/css/main.74a03fb0.css",
-    "main.js": "/PRODIGY_WD_01.git/static/js/main.399e0966.js",
-    "static/js/453.77bf0e0b.chunk.js": "/PRODIGY_WD_01.git/static/js/453.77bf0e0b.chunk.js",
-    "static/media/AboutBackG.jpg": "/PRODIGY_WD_01.git/static/media/AboutBackG.787a985340211b8ed950.jpg",
-    "static/media/fa-solid-900.ttf": "/PRODIGY_WD_01.git/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
-    "static/media/contactBg.jpg": "/PRODIGY_WD_01.git/static/media/contactBg.5463efe03eadeade4472.jpg",
-    "static/media/fa-brands-400.ttf": "/PRODIGY_WD_01.git/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
-    "static/media/bg-image-28.jpg": "/PRODIGY_WD_01.git/static/media/bg-image-28.2c1d81249f45b9f0e831.jpg",
-    "static/media/fa-solid-900.woff2": "/PRODIGY_WD_01.git/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
-    "static/media/fa-brands-400.woff2": "/PRODIGY_WD_01.git/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
-    "static/media/fa-regular-400.ttf": "/PRODIGY_WD_01.git/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
-    "static/media/team-2.jpg": "/PRODIGY_WD_01.git/static/media/team-2.c3fc7a45d0c6c0912180.jpg",
-    "static/media/team-1.jpg": "/PRODIGY_WD_01.git/static/media/team-1.70f571d816f3caeecba2.jpg",
-    "static/media/aboutImg.jpg": "/PRODIGY_WD_01.git/static/media/aboutImg.40efc12fa98a1568c0b1.jpg",
-    "static/media/fa-regular-400.woff2": "/PRODIGY_WD_01.git/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
-    "static/media/fa-v4compatibility.ttf": "/PRODIGY_WD_01.git/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
-    "static/media/fa-v4compatibility.woff2": "/PRODIGY_WD_01.git/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
-    "index.html": "/PRODIGY_WD_01.git/index.html",
-    "main.74a03fb0.css.map": "/PRODIGY_WD_01.git/static/css/main.74a03fb0.css.map",
-    "main.399e0966.js.map": "/PRODIGY_WD_01.git/static/js/main.399e0966.js.map",
-    "453.77bf0e0b.chunk.js.map": "/PRODIGY_WD_01.git/static/js/453.77bf0e0b.chunk.js.map"
+    "main.css": "/PRODIGY_WD_01/static/css/main.b17a4291.css",
+    "main.js": "/PRODIGY_WD_01/static/js/main.03def909.js",
+    "static/js/453.77bf0e0b.chunk.js": "/PRODIGY_WD_01/static/js/453.77bf0e0b.chunk.js",
+    "static/media/AboutBackG.jpg": "/PRODIGY_WD_01/static/media/AboutBackG.787a985340211b8ed950.jpg",
+    "static/media/fa-solid-900.ttf": "/PRODIGY_WD_01/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/contactBg.jpg": "/PRODIGY_WD_01/static/media/contactBg.5463efe03eadeade4472.jpg",
+    "static/media/fa-brands-400.ttf": "/PRODIGY_WD_01/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/bg-image-28.jpg": "/PRODIGY_WD_01/static/media/bg-image-28.2c1d81249f45b9f0e831.jpg",
+    "static/media/fa-solid-900.woff2": "/PRODIGY_WD_01/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/PRODIGY_WD_01/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/PRODIGY_WD_01/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/team-2.jpg": "/PRODIGY_WD_01/static/media/team-2.c3fc7a45d0c6c0912180.jpg",
+    "static/media/team-1.jpg": "/PRODIGY_WD_01/static/media/team-1.70f571d816f3caeecba2.jpg",
+    "static/media/aboutImg.jpg": "/PRODIGY_WD_01/static/media/aboutImg.40efc12fa98a1568c0b1.jpg",
+    "static/media/fa-regular-400.woff2": "/PRODIGY_WD_01/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/PRODIGY_WD_01/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/PRODIGY_WD_01/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/PRODIGY_WD_01/index.html",
+    "main.b17a4291.css.map": "/PRODIGY_WD_01/static/css/main.b17a4291.css.map",
+    "main.03def909.js.map": "/PRODIGY_WD_01/static/js/main.03def909.js.map",
+    "453.77bf0e0b.chunk.js.map": "/PRODIGY_WD_01/static/js/453.77bf0e0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74a03fb0.css",
-    "static/js/main.399e0966.js"
+    "static/css/main.b17a4291.css",
+    "static/js/main.03def909.js"
   ]
 }
