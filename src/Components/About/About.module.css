@@ -1,0 +1,20 @@
+.aboutComponent{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.452) 0% 100%), url(../../assets/imgs/AboutBackG.jpg);
+    background-size: cover;
+    background-position: 100%;
+    width: 100%;
+    height: 100vh;
+}
+
+.title{
+    font-size:100px;
+    margin: 0;
+    color: white;
+    font-weight: 800;
+}
+.para{
+    font-size: 22px;
+    color: white;
+    margin-bottom: 30px;
+    text-align: center;
+}

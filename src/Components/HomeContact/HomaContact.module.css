@@ -1,0 +1,24 @@
+.contactComponent{
+    padding-bottom: 70px;
+    margin-top: 90px;
+}
+
+.titleBg {
+    position: absolute;
+    bottom: -53%;
+    left: 32%;
+    color: rgb(190 190 190 / 30%);
+    font-size: 110px;
+    font-weight: 800;
+    z-index: -1;
+}
+.sendBtn{
+    border: none;
+    background-color: #00d6ee;
+    color: white;
+    padding: 10px 15px;
+    transition: all 0.3s ease ;
+}
+.sendBtn:hover{
+    background-color: #00bed3;
+}

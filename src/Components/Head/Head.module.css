@@ -1,0 +1,25 @@
+.headComponent{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.553) 0% 100%), url(../../assets/imgs/bg-image-28.jpg);
+    background-size: cover;
+    background-position: 100%;
+}
+.headComponent .content{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 100%;
+ width: 100%;
+}
+.mainText{
+    font-size:100px;
+    margin: 0;
+    color: white;
+    font-weight: 800;
+}
+.mainPa{
+    font-size: 22px;
+    color: white;
+    margin-bottom: 30px;
+}

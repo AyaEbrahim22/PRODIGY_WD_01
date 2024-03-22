@@ -1,0 +1,110 @@
+::selection {
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+}
+::-webkit-scrollbar {
+    width: 8px;
+  }
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4f4f4f;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #000000;
+}
+
+body {
+    font-family: "Truculenta", sans-serif;
+}
+
+.maincolor {
+    color: #00D5EE;
+}
+
+.mainBg {
+    border: 1px solid transparent;
+    background-color: #00D5EE;
+}
+
+.mainBg:hover {
+    border-color: #00D5EE;
+}
+
+.mainbrdr {
+    border: 1px solid #00D5EE;
+}
+
+.mainbrdr:hover {
+    border-color: transparent;
+    background-color: #00D5EE;
+}
+
+.btndark {
+    border: 1px solid black
+}
+
+.btndark:hover {
+    background-color: black;
+    color: white;
+}
+
+.navBgdark {
+    background-color: rgba(0, 0, 0, 0.632);
+}
+
+.navtrans {
+    transition: background-color 0.4s ease-in-out;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.form-control:focus {
+    border-color: #000000;
+    box-shadow: none;
+}
+
+
+
+
+
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 992px) {
+    .socialBorder {
+        border-left: 2px solid rgb(255 255 255 / 52%);
+        margin-right: 5px;
+    }
+
+    .mLinks {
+        margin-right: 5px;
+    }
+
+}
+
+
+@media (min-width: 320px) and (max-width: 400px) {
+    .headTitle {
+        font-size: 37px !important;
+        padding-top: 58px;
+    }
+
+}
+
+@media (min-width: 400px) and (max-width: 500px) {
+    .headTitle {
+        font-size: 50px !important;
+
+    }
+
+}
